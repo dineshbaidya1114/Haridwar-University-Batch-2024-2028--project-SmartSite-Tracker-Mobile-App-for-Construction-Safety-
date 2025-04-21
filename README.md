@@ -71,7 +71,7 @@ The app user’s journey goes through the following stages:
 
 ## 🖼️ App UI Preview
 
-![Mobile App UI](./path/to/app_ui_image.png)
+![Mobile App UI](https://github.com/dineshbaidya1114/SmartSite--tracker/blob/main/App%20UI%20design%20using%20figma.png?raw=true)
 
 ---
 
