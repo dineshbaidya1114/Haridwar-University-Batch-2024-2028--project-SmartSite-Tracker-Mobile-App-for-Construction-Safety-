@@ -65,7 +65,7 @@ The app user’s journey goes through the following stages:
 4. **Retention**: Use reports and alerts for ongoing safety compliance.
 5. **Advocacy**: Recommend to peers and other construction sites.
 
-![Customer Journey Map](./path/to/customer_journey_map.png)
+![Customer Journey Map](https://github.com/dineshbaidya1114/SmartSite--tracker/blob/main/customer%20journey%20map.png?raw=true)
 
 ---
 
