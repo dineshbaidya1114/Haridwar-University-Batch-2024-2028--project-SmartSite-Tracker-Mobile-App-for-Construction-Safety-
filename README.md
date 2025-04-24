@@ -18,7 +18,7 @@ Construction sites often lack proper monitoring mechanisms to track worker locat
 
 ---
 
-## 🧠 Design Thinking Approach (Business Model Canvas)
+## 🧠Business Model Canvas
 
 | Section              | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
@@ -32,6 +32,8 @@ Construction sites often lack proper monitoring mechanisms to track worker locat
 | **Key Partners**     | Construction firms, safety equipment vendors, IoT sensor providers          |
 | **Cost Structure**   | Development, hosting, marketing, customer support                           |
 
+
+![Business Model Canvas](./images/business_model_canvas.png)
 ---
 
 ## 📲 App Features
