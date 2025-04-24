@@ -33,7 +33,7 @@ Construction sites often lack proper monitoring mechanisms to track worker locat
 | **Cost Structure**   | Development, hosting, marketing, customer support                           |
 
 
-![Business Model Canvas](./images/business_model_canvas.png)
+![Business Model Canvas](https://github.com/dineshbaidya1114/Haridwar-University-Batch-No.-4--project-SmartSite-Tracker-Mobile-App-for-Construction-Safety-/blob/main/Businesss%20model%20canvas_page-0001.jpg?raw=true)
 ---
 
 ## 📲 App Features
